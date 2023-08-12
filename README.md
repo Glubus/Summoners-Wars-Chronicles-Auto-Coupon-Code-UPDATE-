@@ -1,8 +1,7 @@
 # summoners-war-chronicles-coupon-exchange
-auto exchange valid summoners-war-chronicles-coupon
+Auto Exchange Valid Coupon Summoners Wars Chronicles Coupon Code.
 
-# 魔灵召唤:克罗尼柯战记 兑换码
+#Its based on this original program made in chinese : https://github.com/JohnZhao1208/summoners-war-chronicles-coupon-exchange
+I didnt not change the main program + how it was working just fully translated it in english and made it work for all server.
 
-https://coupon.withhive.com/771
-
-https://forum.gamer.com.tw/C.php?bsn=72056&snA=325&tnum=88
+Any error just ping me on discord : Osef0760
